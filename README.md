@@ -10,7 +10,7 @@
 
 ## Quick Start
 
-assume has install `python3.8+ Claude Code`   
+assume has install `python3.8+, Claude Code`   
 
 1. start claude  
 ```bash
