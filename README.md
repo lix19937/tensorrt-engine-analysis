@@ -8,8 +8,19 @@
 ![1](doc/1.png)
 
 
-## GetStart 
-TBD  
+## Quick Start
+
+assume has install `python3.8+ Claude Code`   
+
+1. start claude  
+```bash
+cd tensorrt-engine-analysis   && bash  ./claude-auto.sh
+```
+
+2. choose a skill  
+```
+/tensorrt-engine-analysis
+```
 
 ## Workflow 
 
@@ -65,4 +76,9 @@ TBD
 + 预览网页报告： http://127.0.0.1:8765/
 
 
+## Platform support    
++ Linux x86-64      
+
+## License   
+MIT   
 
